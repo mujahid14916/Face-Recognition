@@ -7,5 +7,5 @@ Face Detection and Recognition system achieved with Deep Learning.
 ### Non Face dataset
 ![Non face samples](https://github.com/mujahid14916/Face-Recognition/blob/master/images/nonface.jpg)
 
-### Face Detection
+### Face Detection with Sliding Window
 ![Face Detection](https://github.com/mujahid14916/Face-Recognition/blob/master/images/face_detection.gif)
